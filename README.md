@@ -20,17 +20,17 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/dev-saurabh-kumar" target="_blank">LinkedIn</a> & GitHub**
+- 👯 I’m looking to collaborate on **<a href="www.linkedin.com/in/palabhi017" target="_blank">LinkedIn</a> & GitHub**
 
-- 📫 Reach me on **sau4478@gmail.com** 
+- 📫 Reach me on **palabhi017@gmail.com** 
 
 - 💬 Open for your suggestions
 
 - 😄 Pronouns: He/His
  
-- 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href="https://palabhi017.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/16ulnv0nv83urH_XCtFO45BqtRk2lSOEi/view?usp=share_link">Resume</a>
 
 
 
