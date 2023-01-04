@@ -1,16 +1,16 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/dev-saurabh-kumar">Saurabh Kumar 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/dev-saurabh-kumar">Abhishek Pal 💻</a>!
 </h2>  
 
-Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer. I am constantly learning and striving to improve my skills in order to deliver the best solutions for my clients. With a strong foundation in both front-end and back-end development, I am comfortable working on projects of all sizes and complexities. Whether you need a new website or want to update your existing online presence, I am here to help bring your vision to life. Thank you for visiting my GitHub, I look forward to working with you! 
+Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer. I am constantly learning and striving to improve my skills in order to deliver the best solutions for my clients. With a strong foundation in both front-end and back-end development, I am comfortable working on projects of all sizes and complexities. Whether you need a new website or want to update your existing online presence, I am here to help bring your vision to life. Thank you for visiting my GitHub, I look forward to working with you! 
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Imsaurabh&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palabhi017&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
    <p align="center" color:"red">
      <a href="">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Saurabh+Kumar;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Abhishek+Pal;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -49,20 +49,20 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
 
 <div align="center" style="display: flex; gap:50px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-Imsaurabh&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=palabhi017&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=dev-Imsaurabh&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+<img src="https://streak-stats.demolab.com?user=palabhi017&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
 
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Imsaurabh&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palabhi017&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
 </div>
 
 
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-Imsaurabh&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=palabhi017&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
