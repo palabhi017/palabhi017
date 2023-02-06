@@ -7,6 +7,7 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/palabhi017/" target="_blank">LinkedIn</a> & GitHub**
 
 - 📫 Reach me on palabhi017@gmail.com
+- LinkedIn : https://www.linkedin.com/in/palabhi017/
 
 - 💬 Open for your suggestions
 
