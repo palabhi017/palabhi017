@@ -52,7 +52,7 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 <img src="https://github-readme-stats.vercel.app/api?username=palabhi017&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=palabhi017&theme=highcontrast" style="width: 50%" />
+<img src="https://streak-stats.demolab.com?user=palabhi017&theme=highcontrast&theme=react" style="width: 50%" />
 
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palabhi017&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
@@ -62,7 +62,7 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=palabhi017&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=palabhi017&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
