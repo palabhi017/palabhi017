@@ -34,7 +34,7 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 
 
 
-<h2>🥇 Technical Skills:  </h2>  
+<!-- <h2>🥇 Technical Skills:  </h2>  
 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
@@ -42,11 +42,11 @@ Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer.
 <div align="center">
         <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
  
-</div>
+</div> -->
 
-## 📊 Statistics  
+<!-- ## 📊 Statistics  
 github status 
-
+ -->
 <div align="center" style="display: flex; gap:50px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=palabhi017&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
@@ -61,7 +61,7 @@ github status
 
 
 
- <h2 align="left">⚡Activity Graph:</h2>
+<!--  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=palabhi017&theme=react-dark&hide_border=true" /></a>
 
 
@@ -69,3 +69,4 @@ github status
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palabhi017/)
+ -->
