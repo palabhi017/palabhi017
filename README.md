@@ -4,7 +4,7 @@
 
 Hi there, my name is Abhishek Pal and I am a passionate FullStack web developer. I am constantly learning and striving to improve my skills in order to deliver the best solutions for my clients. With a strong foundation in both front-end and back-end development, I am comfortable working on projects of all sizes and complexities. Whether you need a new website or want to update your existing online presence, I am here to help bring your vision to life. Thank you for visiting my GitHub, I look forward to working with you! 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palabhi017&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
